@@ -1,0 +1,9 @@
+{
+  "products": [
+    {
+      "product": "CoreProduct",
+      "price": 19.99,
+      "plusOnePrice": 10
+    }
+  ]
+}
